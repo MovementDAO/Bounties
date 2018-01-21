@@ -11,3 +11,6 @@ https://medium.com/@movementDAO/the-movement-dao-bounties-stage-one-79860c5e3260
 
 **Stage 2**: Signature Campaign
 https://bitcointalk.org/index.php?topic=2560906
+
+**Stage 3**: Twitter Campaign
+https://bitcointalk.org/index.php?topic=2721573
